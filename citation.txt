@@ -1,0 +1,6 @@
+@article{REPO094,
+    author = "Shi, Jiang-Xin and Wei, Tong and Zhou, Zhi and Han, Xin-Yan and Shao, Jie-Jing and Li, Yu-Feng",
+    journal = "arXiv preprint arXiv:2309.10019",
+    title = "{Parameter-Efficient Long-Tailed Recognition}",
+    year = "2023"
+}
